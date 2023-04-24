@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Non-Markovian Quantum Battery via Collision Models
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Daniele
+    family-names: Morrone
+    orcid: 'https://orcid.org/0000-0001-9934-9971'
+identifiers:
+  - type: doi
+    value: 10.1088/2058-9565/accca4
+    description: Paper for which this data has been generated
+repository-code: 'https://github.com/DanieleMorr/Q_Battery_Coll_Model'
+license: MIT
