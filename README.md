@@ -1,5 +1,5 @@
 # Q_Battery_Coll_Model
-Code and data used in paper arXiv:2212.13488
+Code and data used in paper 10.1088/2058-9565/accca4
 
 Plots_ERG contain code use to generate plots containing energy and/or ergotropy values for specific dynamics. A minimal description of  the data used is contained in the notebook.
 
